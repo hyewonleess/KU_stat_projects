@@ -5,8 +5,8 @@ This is repository where I upload all projects I've done in Graduate School of S
 
 
 ## 2020-2 학기
- + 고급통계적머신러닝
- + 결측자료분석
+ + 고급통계적머신러닝(📂: machine_learning)
+ + 결측자료분석(📂: missing_data_analysis)
  + 통계분석방법론
 
 
