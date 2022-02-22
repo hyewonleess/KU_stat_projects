@@ -11,5 +11,5 @@ This is repository where I upload all projects I've done in Graduate School of S
 
 
 ## 2021-1 학기
- + 고급통계적딥러닝
+ + 고급통계적딥러닝(📂: deep_learning)
  + 함수추정방법
